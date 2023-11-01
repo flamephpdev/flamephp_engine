@@ -3,6 +3,11 @@
 ## How to add to a project?
 
 Install it via composer and add it to your file.
+
+```bash
+composer require bndrmrtn/flamephp_engine
+```
+
 ```php
 require_once 'vendor/autoload.php';
 ```
