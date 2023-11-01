@@ -1,0 +1,20 @@
+{
+    "name": "bndrmrtn/flamephp_engine",
+    "description": "Drop the old PHP <?= syntax and never use it again, the solution is *.flame.php wich converts {{ $title }} to <?php echo $title ?> and @foreach(...) ... @endforeach  to <?php foreach(...): ?> ... <?php endforeach ?>, so UI development is not a PAIN anymore with flamephp_engine",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Bndrmrtn\\FlamephpEngine\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Martin Binder",
+            "email": "bndrmrtn@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "^11.0@dev"
+    }
+}
