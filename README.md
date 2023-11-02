@@ -74,7 +74,7 @@ You can check the `/tests` folder and run the tests with PHPUnit
 
 ### Documentation
 
-Here `[FlameCore Official Views Documentation](https://flamephp.mrtn.vip/docs/v1/views/getting-started)` you can find a small documentation of how it works, but I must remind you that it documents a modified version and that you should follow the default settings as described above!
+Here [FlameCore Official Views Documentation](https://flamephp.mrtn.vip/docs/v1/views/getting-started) you can find a small documentation of how it works, but I must remind you that it documents a modified version and that you should follow the default settings as described above!
 
 ## Credits
 
