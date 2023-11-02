@@ -72,6 +72,10 @@ echo $parsed_file; // output: C:\...\your_project\flamephp_engine\cache\views\fi
 
 You can check the `/tests` folder and run the tests with PHPUnit
 
+### Documentation
+
+Here `[FlameCore Official Views Documentation](https://flamephp.mrtn.vip/docs/v1/views/getting-started)` you can find a small documentation of how it works, but I must remind you that it documents a modified version and that you should follow the default settings as described above!
+
 ## Credits
 
 [Martin Binder](https://mrtn.vip), FullStack Web Developer, 4 years of experience with PHP, 3 with Laravel.
