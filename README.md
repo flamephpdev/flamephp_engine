@@ -5,7 +5,7 @@
 Install it via composer and add it to your file.
 
 ```bash
-composer require bndrmrtn/flamephp_engine
+composer require bndrmrtn/flamephp_engine:dev-main
 ```
 
 ```php
