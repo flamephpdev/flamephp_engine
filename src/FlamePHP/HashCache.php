@@ -13,7 +13,7 @@ class HashCache {
           FlamePHP::$methods->createPath($cache = FlamePHP::$methods->cache('/flame-engine'));
           if(FlamePHP::$class->useDevelopmentMode) {
                if(file_exists($cache . '/hash.php')) {
-                    static::$hashList = require $cache;
+                    static::$hashList = require $cache . '/hash.php';
                }
           }
           $this->hash = $hash;
